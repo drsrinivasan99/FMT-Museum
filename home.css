@@ -1,0 +1,2 @@
+.hero-art{background-image:linear-gradient(90deg,rgba(20,38,36,.12),rgba(20,38,36,.02)),url('images/aiims-patna-museum-background.png');background-size:cover;background-position:center}.hero-art::after{display:none}.hero-text{max-width:620px;font-size:15px}.hero-copy{padding-top:70px;padding-bottom:55px}
+@media(max-width:800px){.hero-copy{padding-top:62px}.hero-art{min-height:300px;background-position:center}}
