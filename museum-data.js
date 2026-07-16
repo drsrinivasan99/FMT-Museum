@@ -1014,7 +1014,7 @@ const museumCollections = {
         "notes": ""
       },
       {
-        "name": "Red Kaner",
+        "name": "Red Oleander",
         "image": "images/wet-specimens/red kaner.jpg",
         "summary": "Wet-mounted botanical specimen",
         "description": "This is wet mounted specimen of Nerium odorum (Kaner) Flowers are, white, pink or red and has fragrance All part of the plant except roots are toxic. It contain cardiac glycosides, oleandrin, nerin which resembles digitalis like action The nector yields poisonous honey. Used as herbal medicine. Poisoning can be accidental, suicidal or when used as abortificient.",
@@ -1028,7 +1028,7 @@ const museumCollections = {
         "notes": ""
       },
       {
-        "name": "Yellow Kaner",
+        "name": "Yellow Oleander",
         "image": "images/wet-specimens/yellow kaner.jpg",
         "summary": "Wet-mounted botanical specimen",
         "description": "This is wet mounted specimen of Cerebra Thevetia It is commonly known as Yellow Oleander or Pila kaner It has globular and light green fruit. Seeds of the plant contain cardiac glycoside thevetin. All parts of the plants are poisonous root and seeds used sometimes for suicide, homicide or for criminal abortion.",
